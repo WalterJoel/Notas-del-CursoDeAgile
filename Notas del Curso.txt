@@ -1,1 +1,10 @@
-Hola Sayu
+Modulo 1  - "Historia"
+-----------------------
+->Revolucion Industria / Taylorismo (Pensar vs Actuar), pero mas adelante se queria el CONOCIMIENTO.
+->Revolucion Industrial(maquina de vapor) / Revolucion tecnologica(pc)
+-> Metodologias basadas en Lean:
+	->Agile
+	->XP
+Estas se basan en la mejora continua
+		     agregar valor	
+			desperdicio (tiempo/trabajo)

@@ -1,10 +1,41 @@
+-------------------------
 Modulo 1  - "Historia"
------------------------
+-------------------------
+
+HISTORIA PASADA
+---------------
+
 ->Revolucion Industria / Taylorismo (Pensar vs Actuar), pero mas adelante se queria el CONOCIMIENTO.
 ->Revolucion Industrial(maquina de vapor) / Revolucion tecnologica(pc)
+
+ASOCIACION CON LEAN
+-------------------
 -> Metodologias basadas en Lean:
 	->Agile
 	->XP
 Estas se basan en la mejora continua
 		     agregar valor	
 			desperdicio (tiempo/trabajo)
+
+CICLO DE DEMING
+-------------------
+- Edward Deming(Como un premio nobel pero de empresas de calidad que se da al año y es el premio Deming)
+- Estadista, propone plan Deming
+	1.- Planificacion
+	2.- Accion
+	3.- Revisar
+	4.- Actuacion(Mejora continua, es la fase de mejora)
+
+TRIANGULO DE HIERRO
+-------------------
+- Tiempo / Coste / Alcance -> Se tiene que fijar dos y uno dejar para la optimizacion del cuart elemento CALIDAD, por ejm si el cliente me dice que quiere que el proyecto
+				se acabe rapido y me da el alcance, pues mis costes aumentan(aqui fije dos y el coste es el tercero).
+
+- SCRUM  : Tiempo Fijo
+- SPRINT : Duracion determinada
+-> Scrum define que el tiempo y el coste son fijos y lo que varia en cada iteracion es el alcance(logico)
+
+CONO DE LA INCERTIDUMBRE
+------------------------
+- En todo proyecto al inicio hay muchas incertidumbres sobretodo de coste, o muy alto o muy bajo(Gente capacitada, funcionalidades, etc).
+- Al final del proyecto se ven los numeros reales y nos sirve para proximos planeamientos y estimaciones basadas en experiencias pasadas.
